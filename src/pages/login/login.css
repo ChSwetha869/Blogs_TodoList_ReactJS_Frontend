@@ -1,0 +1,13 @@
+.login-page {
+    background: url('/media/bird.jpg');
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+}
+
+.login-form {
+    width: 500px;
+    background-color:cadetblue;
+    padding: 20px;
+    height: 300px;
+}

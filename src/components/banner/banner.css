@@ -1,0 +1,18 @@
+.banner-div {
+    border: 2px rebeccapurple solid;
+    position: relative;
+}
+
+.overlay {
+    position: absolute;
+    background-color: rgb(0,0,0,.4);
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.banner-title {    
+    color: white;
+}
